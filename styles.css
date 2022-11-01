@@ -1,0 +1,73 @@
+
+
+body{
+	margin: 0px;
+	font-family:  sans-serif;
+  min-width:  360px;
+}
+
+.header{
+	padding: 3rem;
+	text-align: center;
+	background-color: #C4DDFF;
+	color: black;
+	font-size:  1.8rem;
+  font-family: 'Roboto Mono', monospace;
+}
+.nav-bg{
+  background-color: #041C32;
+}
+
+.lecture1{
+  background-color: #DFF6FF;
+  padding: 1rem;
+  padding
+}
+
+
+
+
+
+
+hr{
+  height: 1px;
+  background-color:  #256D85;
+  border-color: #256D85;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #06283D;
+  color:  white;
+}
+.footer a{
+	color:  white;
+	padding-right:  20px;
+}
+.footer a:hover{
+	color: blue;
+}
+
+h2{
+  text-align: center;
+  padding-top:  2rem;
+  padding-bottom: 2rem;
+}
+
+
+.logo{
+  display:  inline-block;
+  margin-left:  auto;
+  margin-right:  auto;
+  font-size:  1.2rem;
+  width: 40%;
+  margin-top:  5px;
+}
+
+span{
+	display:  block;
+	margin-top: 20px;
+  font-weight:  bolder;
+}
+
